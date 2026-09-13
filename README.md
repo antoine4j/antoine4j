@@ -10,7 +10,7 @@ Public. The [architecture overview](https://antoine4j.github.io/ringfacts/archit
 and [funnel walkthrough](https://antoine4j.github.io/ringfacts/funnel-walkthrough.html)
 explain how it works.
 
-**[MovieMash](https://moviemash.app)** — a movie tracking app for two, with mutual
+**[MovieMash.app](https://moviemash.app)** — a movie tracking app for two, with mutual
 ranking. Live; repo private.
 
 [LinkedIn](https://www.linkedin.com/in/antonfomin/)
